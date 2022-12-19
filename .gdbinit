@@ -76,7 +76,7 @@ dashboards but only works with certain terminals.''',
             },
             'max_value_length': {
                 'doc': 'Maximum length of displayed values before truncation.',
-                'default': 1000,
+                'default': 5000,
                 'type': int
             },
             'value_truncation_string': {
